@@ -7,3 +7,6 @@ Smallsh is a small shell containing a subset of features of well-known shells su
 To compile and run, type the following at the command prompt:\
 `gcc --std=gnu99 -Wall -o smallsh smallsh.c`\
 `./smallsh`
+
+## Screenshots
+![](Images/Screenshot.png?raw=true)
